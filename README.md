@@ -11,7 +11,7 @@ https://github.com/krowly/Diplom_2
 https://github.com/krowly/Diplom_3
 
 
-#Промежуточные задания
+# Промежуточные задания
 
 https://github.com/krowly/qa_java
 
