@@ -3,9 +3,13 @@
 # Проекты с яндекс-практикума по QA автоматизации
 
 Дипломная работа
-https://github.com/krowly/Diplom_3
-https://github.com/krowly/Diplom_2
+
 https://github.com/krowly/Diplom_1
+
+https://github.com/krowly/Diplom_2
+
+https://github.com/krowly/Diplom_3
+
 
 #Промежуточные задания
 
