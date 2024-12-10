@@ -1,4 +1,4 @@
-# GroupingPagehttps://github.com/krowly/GroupingPage/blob/main/README.md#L16C33
+# GroupingPage
 
 # Проекты с яндекс-практикума по QA автоматизации
 
@@ -32,6 +32,7 @@ https://github.com/krowly/Diplom_3
 Сайт 1
 
 Сайт 2
+
 Сайт 3
 
 
